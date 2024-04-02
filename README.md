@@ -11,5 +11,4 @@ I'm a 4th year biophysics major at UCLA. I'm aiming to do a PhD in bioinformatic
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-
-[linkedin](www.linkedin.com/in/adrianihanson)
+[linkedin]:(www.linkedin.com/in/adrianihanson)
