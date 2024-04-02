@@ -1,5 +1,5 @@
 <h1>Hi, I'm Adrian! <br/></h1>
-I'm a 4th year biophysics major at UCLA. I'm aiming to do a PhD in bioinformatics, and I am especially interested in computational neuroscience, epigenetics, and protein design.
+I'm a 4th year biophysics major at UCLA. I'm aiming to do a PhD in bioinformatics, and I am especially interested in computational neuroscience, epigenetics, and protein design. I really enjoy the challenge using code to tease apart biological systems. Anyway, here are some of my projects!
 <h2>Projects:</h2>
 
 - <b>[Independent Component Analysis (ICA) for epigenetic feature extraction](https://github.com/Adronz/ICA_Epigenetics) </b>
