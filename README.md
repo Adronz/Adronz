@@ -4,14 +4,13 @@ I'm a 4th year biophysics major at UCLA. I'm aiming to do a PhD in bioinformatic
 
 - <b>[Independent Component Analysis (ICA) for epigenetic feature extraction](https://github.com/Adronz/ICA_Epigenetics) </b>
 
-- <b>De novo motif discovery</b>
+- <b>[De novo motif discovery](https://github.com/Adronz/Motif_discovery_122)</b>
     
-- <b>Genome assembler</b>
-  - [CODE](repo_url)
-- <b>Metagenomics project</b>
-  - [CODE](repo_url)
-- <b>Gene identification from histone modification using HMM</b>
-  - [CODE](repo_url)
+- <b>[Genome assembler](https://github.com/Adronz/Genome_assembler)</b>
+
+- <b>[Metagenomics project](https://github.com/Adronz/metagenomics-122)</b>
+
+- <b>[Gene identification from histone modification using HMM](https://github.com/Adronz/Genes_from_histone_mod_122)</b>
 
 
 <h2>🤳 Connect with me:</h2>
