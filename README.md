@@ -8,9 +8,11 @@ I'm a 4th year biophysics major at UCLA. I'm aiming to do a PhD in bioinformatic
     
 - <b>[Genome assembler](https://github.com/Adronz/Genome_assembler)</b>
 
+- <b>[Gene identification from histone modification using HMM](https://github.com/Adronz/Genes_from_histone_mod_122)</b>
+
 - <b>[Metagenomics project](https://github.com/Adronz/metagenomics-122)</b>
 
-- <b>[Gene identification from histone modification using HMM](https://github.com/Adronz/Genes_from_histone_mod_122)</b>
+
 
 
 <h2>🤳 Connect with me:</h2>
