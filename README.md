@@ -2,8 +2,7 @@
 
 <h2>🧬 Computational Biology Projects:</h2>
 
-- <b>Independent Component Analysis (ICA) for epigenetic feature extraction</b>
-  - [CODE](repo_url)
+- <b>[Independent Component Analysis (ICA) for epigenetic feature extraction] (https://github.com/Adronz/ICA_Epigenetics) </b>
 
 - <b>Fungal Phylogenetic tree</b>
   - [CODE](repo_url)
