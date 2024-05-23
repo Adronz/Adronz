@@ -2,7 +2,7 @@
 I'm a 4th year biophysics major at UCLA. I'm aiming to do a PhD in bioinformatics, and I am especially interested in computational neuroscience, epigenetics, and protein design. I really enjoy the challenge using code to tease apart biological systems. Anyway, here are some of my projects!
 <h2>💾 Projects:</h2>
 
-- <b>[Needle segmentation](https://github.com/Adronz/Needle-Segmentation) </b>
+- <b>[Needle segmentation using a transformer model](https://github.com/Adronz/Needle-Segmentation) </b>
 
 - <b>[Fungal Proteomics](https://github.com/Adronz/Fungal-Proteomics/tree/main) </b>
 
